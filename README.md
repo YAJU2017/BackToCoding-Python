@@ -1,2 +1,2 @@
 # BackToCoding-Python
-to go some programming concepts using Python
+to go over some programming concepts using Python
